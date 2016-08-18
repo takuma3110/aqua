@@ -46,4 +46,6 @@ group :development do
 end
 
 gem 'devise'
+gem 'carrierwave'
+gem 'rmagick', require: 'RMagick'
 
